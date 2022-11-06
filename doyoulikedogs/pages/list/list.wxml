@@ -1,0 +1,6 @@
+<!-- <view class="mymap" bindtap="gotomap">
+  <text>1号 snow</text>
+</view> -->
+<image src='cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/background/list3.png' class="background1"></image>
+
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/background/地址详情.png" class="size1" mode="heightFix" bindtap="gotomap"></image>

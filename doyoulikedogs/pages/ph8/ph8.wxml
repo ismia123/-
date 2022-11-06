@@ -1,0 +1,5 @@
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/book/花边.png" class="size2"></image>
+<image  src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/ph8/头像.png" class='size'></image>
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/book/自我介绍.png" class="size3"></image>
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/ph8/文本1.png" class="size4" mode="widthFix"></image>
+<image src='cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/book/预约按键.png' class="size5" bindtap="gotobook8"></image>

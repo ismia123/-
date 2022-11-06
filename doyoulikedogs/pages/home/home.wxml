@@ -1,0 +1,39 @@
+<view class="background1">
+  <image src='cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/background/bg1.jpg' mode="widthFix"></image>
+</view>
+<view class="background2">
+  <image src='cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/background/bg2.png' mode="widthFix"></image>
+</view>
+
+<view class="no1_box" bindtap="gotoph1">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/01.jpg" mode="widthFix"></image>
+  <text>1号 snow</text>
+</view>
+<view class="no2_box" bindtap="gotoph2">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/02.png" mode="widthFix"></image>
+  <text>2号 bear</text>
+</view>
+<view class="no3_box" bindtap="gotoph3">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/03.png" mode="widthFix"></image>
+  <text>3号 一只耳</text>
+</view>
+<view class="no4_box" bindtap="gotoph4">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/04.png" mode="widthFix"></image>
+  <text>4号 Kevin</text>
+</view>
+<view class="no5_box" bindtap="gotoph5">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/05.png" mode="widthFix"></image>
+  <text>5号 evan</text>
+</view>
+<view class="no6_box" bindtap="gotoph6">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/06.png" mode="widthFix"></image>
+  <text>6号 耶问</text>
+</view>
+<view class="no7_box" bindtap="gotoph7">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/07.png" mode="widthFix"></image>
+  <text>7号 phd</text>
+</view>
+<view class="no8_box" bindtap="gotoph8">
+  <image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/08.png" mode="widthFix"></image>
+  <text>8号 潜伏者</text>
+</view>

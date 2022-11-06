@@ -1,0 +1,40 @@
+/* pages/ph8/ph8.wxss */.size{
+  position: absolute;
+  top: 70rpx;
+  left: 180rpx;
+  justify-content: center;  
+  width: 380rpx;
+  height: 380rpx;
+}
+.size2{
+  position: absolute;
+  top: 470rpx;
+  left: 75rpx;
+  justify-content: center;  
+  width: 600rpx;
+  height: 100rpx;
+}
+.size3{
+  position: absolute;
+  top: 500rpx;
+  left: 75rpx;
+  justify-content: center;  
+  width: 180rpx;
+  height: 70rpx;
+}
+.size4{
+  position: absolute;
+  top: 620rpx;
+  left: 160rpx;
+  justify-content: center;  
+  width: 410rpx;
+  height: 230rpx;
+}
+.size5{
+  position: absolute;
+  top: 1050rpx;
+  left: 160rpx;
+  justify-content: center;  
+  width: 410rpx;
+  height: 80rpx;
+}

@@ -1,0 +1,62 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/list/list",
+    "pages/ph1/ph1",
+    "pages/ph1_book/ph1_book",
+    "pages/ph2/ph2",
+    "pages/ph2_book/ph2_book",
+    "pages/ph3/ph3",
+    "pages/ph3_book/ph3_book",
+    "pages/ph4/ph4",
+    "pages/ph4_book/ph4_book",
+    "pages/ph5/ph5",
+    "pages/ph5_book/ph5_book",
+    "pages/ph6/ph6",
+    "pages/ph6_book/ph6_book",
+    "pages/ph7/ph7",
+    "pages/ph7_book/ph7_book",
+    "pages/ph8/ph8",
+    "pages/ph8_book/ph8_book",
+    "pages/test/test"
+  ],
+  "plugins": {
+    "routePlan": {
+    "version": "1.0.18",
+    "provider": "wx50b5593e81dd937a"
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序定位"
+      }
+  },
+  "window":{
+    "navigationBarBackgroundColor": "#E7D4C5",
+    "navigationBarTitleText": "耶总会",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "#E7D4C5",
+    "backgroundTextStyle":"dark",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "list":[
+      {
+        "pagePath": "pages/home/home",
+        "text": "",
+        "iconPath":"/image/tabs/home.png" ,
+        "selectedIconPath": "/image/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "",
+        "iconPath": "/image/tabs/点击.png",
+        "selectedIconPath": "/image/tabs/点击-active.png"
+      }
+    ],
+    "borderStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

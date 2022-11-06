@@ -1,0 +1,3 @@
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/ph5/头像.png" class="size"></image>
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/book/文本2.png" class='size2'></image>
+<image src="cloud://cloud1-3ggluyzeeff2aa06.636c-cloud1-3ggluyzeeff2aa06-1314367445/image/book/返回首页.png" class="size3" bindtap="gotohome"></image>
